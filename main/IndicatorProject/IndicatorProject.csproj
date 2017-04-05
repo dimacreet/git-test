@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{81938ECA-A36A-4EEF-A7D4-6DCB55D43DB8}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>IndicatorProject</RootNamespace>
+    <AssemblyName>IndicatorProject</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BloomAPI">
+      <HintPath>\\prbs-mow-fl-n01\Investment\users\LevashevDK\BloombergData\BloomAPI.dll</HintPath>
+    </Reference>
+    <Reference Include="Bloomberglp.Blpapi">
+      <HintPath>\\prbs-mow-fl-n01\Investment\users\LevashevDK\BloombergData\Bloomberglp.Blpapi.dll</HintPath>
+    </Reference>
+    <Reference Include="DundasWinChart">
+      <HintPath>..\..\#DLLS\DundasWinChart.dll</HintPath>
+    </Reference>
+    <Reference Include="IndicatorBank">
+      <HintPath>..\..\#DLLS\IndicatorBank.dll</HintPath>
+    </Reference>
+    <Reference Include="MoreLinq">
+      <HintPath>..\..\#DLLS\MoreLinq.dll</HintPath>
+    </Reference>
+    <Reference Include="ResultViewer">
+      <HintPath>..\..\#DLLS\ResultViewer.exe</HintPath>
+    </Reference>
+    <Reference Include="StrategyExecutor">
+      <HintPath>..\..\#DLLS\StrategyExecutor.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="TradeFramework">
+      <HintPath>..\..\#DLLS\TradeFramework.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="fisher.cs" />
+    <Compile Include="garch models.cs" />
+    <Compile Include="MeanDev.cs" />
+    <Compile Include="Normilize.cs" />
+    <Compile Include="Service\Bloom.cs" />
+    <Compile Include="Service\Charts\EquityResultChart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Service\Charts\EquityResultChart.designer.cs">
+      <DependentUpon>EquityResultChart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Service\Charts\Hist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Service\Charts\Hist.designer.cs">
+      <DependentUpon>Hist.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Service\Charts\Scatter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Service\Charts\Scatter.designer.cs">
+      <DependentUpon>Scatter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BollingerBands.cs" />
+    <Compile Include="Service\ScriptManager1.cs" />
+    <Compile Include="Service\System\PositionManager.cs" />
+    <Compile Include="Service\System\StatSaver.cs" />
+    <Compile Include="Service\System\StrategyPortfolio.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Service\System\Attributes.cs" />
+    <Compile Include="Service\System\BarStream.cs" />
+    <Compile Include="Service\System\Chartingcs.cs" />
+    <Compile Include="Service\System\OptimizerTypes.cs" />
+    <Compile Include="Service\System\ParamMix.cs" />
+    <Compile Include="Service\System\Params.cs" />
+    <Compile Include="Service\System\service.cs" />
+    <Compile Include="Service\System\tradingResults.cs" />
+    <Compile Include="Service\System\Types.cs" />
+    <Compile Include="Service\System\_params.cs" />
+    <Compile Include="Strategy.cs" />
+    <Compile Include="Strategy\BacktestStrategy.cs" />
+    <Compile Include="indi_class.cs" />
+    <Compile Include="RSI_data.cs" />
+    <Compile Include="Spearman_data.cs" />
+    <Compile Include="Service\WebBrowserComponent.cs" />
+    <Compile Include="VolStall.cs" />
+    <Compile Include="TrendStall.cs" />
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Service\Charts\EquityResultChart.resx">
+      <DependentUpon>EquityResultChart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Service\Charts\Hist.resx">
+      <DependentUpon>Hist.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Service\Charts\Scatter.resx">
+      <DependentUpon>Scatter.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
