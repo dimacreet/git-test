@@ -9,7 +9,6 @@ namespace IndicatorProject
     class var
     {
         //adassdfadsf
-        //optttvar
-        //sdsde
+
     }
 }
