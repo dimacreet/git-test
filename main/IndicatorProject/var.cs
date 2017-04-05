@@ -8,5 +8,6 @@ namespace IndicatorProject
 {
     class var
     {
+        //adassdfadsf
     }
 }
