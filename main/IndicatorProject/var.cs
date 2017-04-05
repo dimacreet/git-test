@@ -9,5 +9,6 @@ namespace IndicatorProject
     class var
     {
         //adassdfadsf
+        private string a = 0;
     }
 }
