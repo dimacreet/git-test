@@ -9,5 +9,7 @@ namespace IndicatorProject
     class var
     {
         //adassdfadsf
+       string a = "";
+
     }
 }
