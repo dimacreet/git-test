@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndicatorProject", "IndicatorProject\IndicatorProject.csproj", "{81938ECA-A36A-4EEF-A7D4-6DCB55D43DB8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{24BD4099-FC1B-4D26-BE0E-94B9CCD42DF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81938ECA-A36A-4EEF-A7D4-6DCB55D43DB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81938ECA-A36A-4EEF-A7D4-6DCB55D43DB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81938ECA-A36A-4EEF-A7D4-6DCB55D43DB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81938ECA-A36A-4EEF-A7D4-6DCB55D43DB8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

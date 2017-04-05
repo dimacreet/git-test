@@ -1,0 +1,222 @@
+D:\#WORK\IndicatorProject\IndicatorProject\bin\Debug\IndicatorProject.exe.config
+D:\#WORK\IndicatorProject\IndicatorProject\obj\Debug\IndicatorProject.csprojResolveAssemblyReference.cache
+D:\#WORK\IndicatorProject\IndicatorProject\obj\Debug\IndicatorProject.Properties.Resources.resources
+D:\#WORK\IndicatorProject\IndicatorProject\obj\Debug\IndicatorProject.csproj.GenerateResource.Cache
+D:\#WORK\IndicatorProject\IndicatorProject\bin\Debug\IndicatorProject.exe
+D:\#WORK\IndicatorProject\IndicatorProject\bin\Debug\IndicatorProject.pdb
+D:\#WORK\IndicatorProject\IndicatorProject\bin\Debug\IndicatorBank.dll
+D:\#WORK\IndicatorProject\IndicatorProject\bin\Debug\ResultViewer.exe
+D:\#WORK\IndicatorProject\IndicatorProject\bin\Debug\StrategyExecutor.dll
+D:\#WORK\IndicatorProject\IndicatorProject\bin\Debug\TradeFramework.dll
+D:\#WORK\IndicatorProject\IndicatorProject\obj\Debug\IndicatorProject.exe
+D:\#WORK\IndicatorProject\IndicatorProject\obj\Debug\IndicatorProject.pdb
+D:\#WORK\IndicatorProject\IndicatorProject\bin\Debug\IndicatorBank.pdb
+D:\#WORK\IndicatorProject\IndicatorProject\bin\Debug\ResultViewer.pdb
+D:\#WORK\IndicatorProject\IndicatorProject\bin\Debug\StrategyExecutor.pdb
+D:\#WORK\IndicatorProject\IndicatorProject\bin\Debug\TradeFramework.pdb
+D:\#WORK\IndicatorProject\IndicatorProject\bin\Debug\DundasWinChart.dll
+D:\#WORK\IndicatorProject\IndicatorProject\bin\Debug\MoreLinq.dll
+C:\Users\LevashevDK\Project\IndicatorProject\IndicatorProject\bin\Debug\IndicatorProject.exe.config
+C:\Users\LevashevDK\Project\IndicatorProject\IndicatorProject\obj\Debug\IndicatorProject.exe
+C:\Users\LevashevDK\Project\IndicatorProject\IndicatorProject\obj\Debug\IndicatorProject.pdb
+C:\Users\LevashevDK\Project\IndicatorProject\IndicatorProject\bin\Debug\IndicatorProject.exe
+C:\Users\LevashevDK\Project\IndicatorProject\IndicatorProject\bin\Debug\IndicatorProject.pdb
+C:\Users\LevashevDK\Project\IndicatorProject\IndicatorProject\bin\Debug\DundasWinChart.dll
+C:\Users\LevashevDK\Project\IndicatorProject\IndicatorProject\bin\Debug\IndicatorBank.dll
+C:\Users\LevashevDK\Project\IndicatorProject\IndicatorProject\bin\Debug\MoreLinq.dll
+C:\Users\LevashevDK\Project\IndicatorProject\IndicatorProject\bin\Debug\ResultViewer.exe
+C:\Users\LevashevDK\Project\IndicatorProject\IndicatorProject\bin\Debug\StrategyExecutor.dll
+C:\Users\LevashevDK\Project\IndicatorProject\IndicatorProject\bin\Debug\TradeFramework.dll
+C:\Users\LevashevDK\Project\IndicatorProject\IndicatorProject\bin\Debug\IndicatorBank.pdb
+C:\Users\LevashevDK\Project\IndicatorProject\IndicatorProject\bin\Debug\ResultViewer.pdb
+C:\Users\LevashevDK\Project\IndicatorProject\IndicatorProject\bin\Debug\StrategyExecutor.pdb
+C:\Users\LevashevDK\Project\IndicatorProject\IndicatorProject\bin\Debug\TradeFramework.pdb
+C:\Users\LevashevDK\Project\IndicatorProject\IndicatorProject\obj\Debug\IndicatorProject.csprojResolveAssemblyReference.cache
+C:\Users\LevashevDK\Project\IndicatorProject\IndicatorProject\obj\Debug\IndicatorProject.Properties.Resources.resources
+C:\Users\LevashevDK\Project\IndicatorProject\IndicatorProject\obj\Debug\IndicatorProject.csproj.GenerateResource.Cache
+D:\ReportProject\Project\IndicatorProject\IndicatorProject\bin\Debug\IndicatorProject.exe.config
+D:\ReportProject\Project\IndicatorProject\IndicatorProject\obj\Debug\IndicatorProject.exe
+D:\ReportProject\Project\IndicatorProject\IndicatorProject\obj\Debug\IndicatorProject.pdb
+D:\ReportProject\Project\IndicatorProject\IndicatorProject\bin\Debug\IndicatorProject.exe
+D:\ReportProject\Project\IndicatorProject\IndicatorProject\bin\Debug\IndicatorProject.pdb
+D:\ReportProject\Project\IndicatorProject\IndicatorProject\bin\Debug\DundasWinChart.dll
+D:\ReportProject\Project\IndicatorProject\IndicatorProject\bin\Debug\IndicatorBank.dll
+D:\ReportProject\Project\IndicatorProject\IndicatorProject\bin\Debug\MoreLinq.dll
+D:\ReportProject\Project\IndicatorProject\IndicatorProject\bin\Debug\ResultViewer.exe
+D:\ReportProject\Project\IndicatorProject\IndicatorProject\bin\Debug\StrategyExecutor.dll
+D:\ReportProject\Project\IndicatorProject\IndicatorProject\bin\Debug\TradeFramework.dll
+D:\ReportProject\Project\IndicatorProject\IndicatorProject\bin\Debug\IndicatorBank.pdb
+D:\ReportProject\Project\IndicatorProject\IndicatorProject\bin\Debug\ResultViewer.pdb
+D:\ReportProject\Project\IndicatorProject\IndicatorProject\bin\Debug\StrategyExecutor.pdb
+D:\ReportProject\Project\IndicatorProject\IndicatorProject\bin\Debug\TradeFramework.pdb
+D:\ReportProject\Project\IndicatorProject\IndicatorProject\obj\Debug\IndicatorProject.csprojResolveAssemblyReference.cache
+D:\ReportProject\Project\IndicatorProject\IndicatorProject\obj\Debug\IndicatorProject.Properties.Resources.resources
+D:\ReportProject\Project\IndicatorProject\IndicatorProject\obj\Debug\IndicatorProject.csproj.GenerateResource.Cache
+D:\ReportProject\Project\IndicatorProject\IndicatorProject\obj\Debug\ResultViewer.Forms.EquityResultChart.resources
+D:\ReportProject\Project\IndicatorProject\IndicatorProject\obj\Debug\ResultViewer.Forms.Scatter.resources
+D:\ReportProject\Project\IndicatorProject\IndicatorProject\obj\Debug\HistObj.resources
+D:\ReportProject\Project\IndicatorProject\IndicatorProject\obj\Debug\IndicatorProject.exe.licenses
+C:\Users\LevashevDK\2014-04-08\Project_new\IndicatorProject\IndicatorProject\bin\Debug\IndicatorProject.exe.config
+C:\Users\LevashevDK\2014-04-08\Project_new\IndicatorProject\IndicatorProject\obj\Debug\IndicatorProject.exe
+C:\Users\LevashevDK\2014-04-08\Project_new\IndicatorProject\IndicatorProject\obj\Debug\IndicatorProject.pdb
+C:\Users\LevashevDK\2014-04-08\Project_new\IndicatorProject\IndicatorProject\bin\Debug\IndicatorProject.exe
+C:\Users\LevashevDK\2014-04-08\Project_new\IndicatorProject\IndicatorProject\bin\Debug\IndicatorProject.pdb
+C:\Users\LevashevDK\2014-04-08\Project_new\IndicatorProject\IndicatorProject\bin\Debug\DundasWinChart.dll
+C:\Users\LevashevDK\2014-04-08\Project_new\IndicatorProject\IndicatorProject\bin\Debug\IndicatorBank.dll
+C:\Users\LevashevDK\2014-04-08\Project_new\IndicatorProject\IndicatorProject\bin\Debug\MoreLinq.dll
+C:\Users\LevashevDK\2014-04-08\Project_new\IndicatorProject\IndicatorProject\bin\Debug\ResultViewer.exe
+C:\Users\LevashevDK\2014-04-08\Project_new\IndicatorProject\IndicatorProject\bin\Debug\StrategyExecutor.dll
+C:\Users\LevashevDK\2014-04-08\Project_new\IndicatorProject\IndicatorProject\bin\Debug\TradeFramework.dll
+C:\Users\LevashevDK\2014-04-08\Project_new\IndicatorProject\IndicatorProject\bin\Debug\IndicatorBank.pdb
+C:\Users\LevashevDK\2014-04-08\Project_new\IndicatorProject\IndicatorProject\bin\Debug\ResultViewer.pdb
+C:\Users\LevashevDK\2014-04-08\Project_new\IndicatorProject\IndicatorProject\bin\Debug\StrategyExecutor.pdb
+C:\Users\LevashevDK\2014-04-08\Project_new\IndicatorProject\IndicatorProject\bin\Debug\TradeFramework.pdb
+C:\Users\LevashevDK\2014-04-08\Project_new\IndicatorProject\IndicatorProject\obj\Debug\IndicatorProject.csprojResolveAssemblyReference.cache
+C:\Users\LevashevDK\2014-04-08\Project_new\IndicatorProject\IndicatorProject\obj\Debug\IndicatorProject.Properties.Resources.resources
+C:\Users\LevashevDK\2014-04-08\Project_new\IndicatorProject\IndicatorProject\obj\Debug\ResultViewer.Forms.EquityResultChart.resources
+C:\Users\LevashevDK\2014-04-08\Project_new\IndicatorProject\IndicatorProject\obj\Debug\HistObj.resources
+C:\Users\LevashevDK\2014-04-08\Project_new\IndicatorProject\IndicatorProject\obj\Debug\ResultViewer.Forms.Scatter.resources
+C:\Users\LevashevDK\2014-04-08\Project_new\IndicatorProject\IndicatorProject\obj\Debug\IndicatorProject.csproj.GenerateResource.Cache
+C:\Users\LevashevDK\2014-04-08\Project_new\IndicatorProject\IndicatorProject\obj\Debug\IndicatorProject.exe.licenses
+C:\Users\LevashevDK\2014-04-16\monitor_test\IndicatorProject\IndicatorProject\bin\Debug\IndicatorProject.exe.config
+C:\Users\LevashevDK\2014-04-16\monitor_test\IndicatorProject\IndicatorProject\obj\Debug\IndicatorProject.exe
+C:\Users\LevashevDK\2014-04-16\monitor_test\IndicatorProject\IndicatorProject\obj\Debug\IndicatorProject.pdb
+C:\Users\LevashevDK\2014-04-16\monitor_test\IndicatorProject\IndicatorProject\bin\Debug\IndicatorProject.exe
+C:\Users\LevashevDK\2014-04-16\monitor_test\IndicatorProject\IndicatorProject\bin\Debug\IndicatorProject.pdb
+C:\Users\LevashevDK\2014-04-16\monitor_test\IndicatorProject\IndicatorProject\bin\Debug\DundasWinChart.dll
+C:\Users\LevashevDK\2014-04-16\monitor_test\IndicatorProject\IndicatorProject\bin\Debug\IndicatorBank.dll
+C:\Users\LevashevDK\2014-04-16\monitor_test\IndicatorProject\IndicatorProject\bin\Debug\MoreLinq.dll
+C:\Users\LevashevDK\2014-04-16\monitor_test\IndicatorProject\IndicatorProject\bin\Debug\ResultViewer.exe
+C:\Users\LevashevDK\2014-04-16\monitor_test\IndicatorProject\IndicatorProject\bin\Debug\StrategyExecutor.dll
+C:\Users\LevashevDK\2014-04-16\monitor_test\IndicatorProject\IndicatorProject\bin\Debug\TradeFramework.dll
+C:\Users\LevashevDK\2014-04-16\monitor_test\IndicatorProject\IndicatorProject\bin\Debug\IndicatorBank.pdb
+C:\Users\LevashevDK\2014-04-16\monitor_test\IndicatorProject\IndicatorProject\bin\Debug\ResultViewer.pdb
+C:\Users\LevashevDK\2014-04-16\monitor_test\IndicatorProject\IndicatorProject\bin\Debug\StrategyExecutor.pdb
+C:\Users\LevashevDK\2014-04-16\monitor_test\IndicatorProject\IndicatorProject\bin\Debug\TradeFramework.pdb
+C:\Users\LevashevDK\2014-04-16\monitor_test\IndicatorProject\IndicatorProject\obj\Debug\IndicatorProject.csprojResolveAssemblyReference.cache
+C:\Users\LevashevDK\2014-04-16\monitor_test\IndicatorProject\IndicatorProject\obj\Debug\IndicatorProject.Properties.Resources.resources
+C:\Users\LevashevDK\2014-04-16\monitor_test\IndicatorProject\IndicatorProject\obj\Debug\ResultViewer.Forms.EquityResultChart.resources
+C:\Users\LevashevDK\2014-04-16\monitor_test\IndicatorProject\IndicatorProject\obj\Debug\HistObj.resources
+C:\Users\LevashevDK\2014-04-16\monitor_test\IndicatorProject\IndicatorProject\obj\Debug\ResultViewer.Forms.Scatter.resources
+C:\Users\LevashevDK\2014-04-16\monitor_test\IndicatorProject\IndicatorProject\obj\Debug\IndicatorProject.csproj.GenerateResource.Cache
+C:\Users\LevashevDK\2014-04-16\monitor_test\IndicatorProject\IndicatorProject\obj\Debug\IndicatorProject.exe.licenses
+C:\Users\LevashevDK\2014-04-16\monitor_test\IndicatorProject\IndicatorProject\obj\Debug\OptReport.resources
+\\prbs-mow-fl-n01\Investment\users\LevashevDK\monitor_test\IndicatorProject\IndicatorProject\bin\Debug\IndicatorProject.exe.config
+\\prbs-mow-fl-n01\Investment\users\LevashevDK\monitor_test\IndicatorProject\IndicatorProject\obj\Debug\IndicatorProject.exe
+\\prbs-mow-fl-n01\Investment\users\LevashevDK\monitor_test\IndicatorProject\IndicatorProject\obj\Debug\IndicatorProject.pdb
+\\prbs-mow-fl-n01\Investment\users\LevashevDK\monitor_test\IndicatorProject\IndicatorProject\bin\Debug\IndicatorProject.exe
+\\prbs-mow-fl-n01\Investment\users\LevashevDK\monitor_test\IndicatorProject\IndicatorProject\bin\Debug\IndicatorProject.pdb
+\\prbs-mow-fl-n01\Investment\users\LevashevDK\monitor_test\IndicatorProject\IndicatorProject\bin\Debug\DundasWinChart.dll
+\\prbs-mow-fl-n01\Investment\users\LevashevDK\monitor_test\IndicatorProject\IndicatorProject\bin\Debug\IndicatorBank.dll
+\\prbs-mow-fl-n01\Investment\users\LevashevDK\monitor_test\IndicatorProject\IndicatorProject\bin\Debug\MoreLinq.dll
+\\prbs-mow-fl-n01\Investment\users\LevashevDK\monitor_test\IndicatorProject\IndicatorProject\bin\Debug\ResultViewer.exe
+\\prbs-mow-fl-n01\Investment\users\LevashevDK\monitor_test\IndicatorProject\IndicatorProject\bin\Debug\StrategyExecutor.dll
+\\prbs-mow-fl-n01\Investment\users\LevashevDK\monitor_test\IndicatorProject\IndicatorProject\bin\Debug\TradeFramework.dll
+\\prbs-mow-fl-n01\Investment\users\LevashevDK\monitor_test\IndicatorProject\IndicatorProject\bin\Debug\IndicatorBank.pdb
+\\prbs-mow-fl-n01\Investment\users\LevashevDK\monitor_test\IndicatorProject\IndicatorProject\bin\Debug\ResultViewer.pdb
+\\prbs-mow-fl-n01\Investment\users\LevashevDK\monitor_test\IndicatorProject\IndicatorProject\bin\Debug\StrategyExecutor.pdb
+\\prbs-mow-fl-n01\Investment\users\LevashevDK\monitor_test\IndicatorProject\IndicatorProject\bin\Debug\TradeFramework.pdb
+\\prbs-mow-fl-n01\Investment\users\LevashevDK\monitor_test\IndicatorProject\IndicatorProject\obj\Debug\IndicatorProject.csprojResolveAssemblyReference.cache
+\\prbs-mow-fl-n01\Investment\users\LevashevDK\monitor_test\IndicatorProject\IndicatorProject\obj\Debug\IndicatorProject.Properties.Resources.resources
+\\prbs-mow-fl-n01\Investment\users\LevashevDK\monitor_test\IndicatorProject\IndicatorProject\obj\Debug\ResultViewer.Forms.EquityResultChart.resources
+\\prbs-mow-fl-n01\Investment\users\LevashevDK\monitor_test\IndicatorProject\IndicatorProject\obj\Debug\HistObj.resources
+\\prbs-mow-fl-n01\Investment\users\LevashevDK\monitor_test\IndicatorProject\IndicatorProject\obj\Debug\ResultViewer.Forms.Scatter.resources
+\\prbs-mow-fl-n01\Investment\users\LevashevDK\monitor_test\IndicatorProject\IndicatorProject\obj\Debug\OptReport.resources
+\\prbs-mow-fl-n01\Investment\users\LevashevDK\monitor_test\IndicatorProject\IndicatorProject\obj\Debug\IndicatorProject.csproj.GenerateResource.Cache
+\\prbs-mow-fl-n01\Investment\users\LevashevDK\monitor_test\IndicatorProject\IndicatorProject\obj\Debug\IndicatorProject.exe.licenses
+C:\Users\LevashevDK\monitor_test\6.6.2014\IndicatorProject\IndicatorProject\bin\Debug\IndicatorProject.exe.config
+C:\Users\LevashevDK\monitor_test\6.6.2014\IndicatorProject\IndicatorProject\obj\Debug\IndicatorProject.exe
+C:\Users\LevashevDK\monitor_test\6.6.2014\IndicatorProject\IndicatorProject\obj\Debug\IndicatorProject.pdb
+C:\Users\LevashevDK\monitor_test\6.6.2014\IndicatorProject\IndicatorProject\bin\Debug\IndicatorProject.exe
+C:\Users\LevashevDK\monitor_test\6.6.2014\IndicatorProject\IndicatorProject\bin\Debug\IndicatorProject.pdb
+C:\Users\LevashevDK\monitor_test\6.6.2014\IndicatorProject\IndicatorProject\bin\Debug\DundasWinChart.dll
+C:\Users\LevashevDK\monitor_test\6.6.2014\IndicatorProject\IndicatorProject\bin\Debug\IndicatorBank.dll
+C:\Users\LevashevDK\monitor_test\6.6.2014\IndicatorProject\IndicatorProject\bin\Debug\MoreLinq.dll
+C:\Users\LevashevDK\monitor_test\6.6.2014\IndicatorProject\IndicatorProject\bin\Debug\ResultViewer.exe
+C:\Users\LevashevDK\monitor_test\6.6.2014\IndicatorProject\IndicatorProject\bin\Debug\StrategyExecutor.dll
+C:\Users\LevashevDK\monitor_test\6.6.2014\IndicatorProject\IndicatorProject\bin\Debug\TradeFramework.dll
+C:\Users\LevashevDK\monitor_test\6.6.2014\IndicatorProject\IndicatorProject\bin\Debug\IndicatorBank.pdb
+C:\Users\LevashevDK\monitor_test\6.6.2014\IndicatorProject\IndicatorProject\bin\Debug\ResultViewer.pdb
+C:\Users\LevashevDK\monitor_test\6.6.2014\IndicatorProject\IndicatorProject\bin\Debug\StrategyExecutor.pdb
+C:\Users\LevashevDK\monitor_test\6.6.2014\IndicatorProject\IndicatorProject\bin\Debug\TradeFramework.pdb
+C:\Users\LevashevDK\monitor_test\6.6.2014\IndicatorProject\IndicatorProject\obj\Debug\IndicatorProject.csprojResolveAssemblyReference.cache
+C:\Users\LevashevDK\monitor_test\6.6.2014\IndicatorProject\IndicatorProject\obj\Debug\IndicatorProject.Properties.Resources.resources
+C:\Users\LevashevDK\monitor_test\6.6.2014\IndicatorProject\IndicatorProject\obj\Debug\ResultViewer.Forms.EquityResultChart.resources
+C:\Users\LevashevDK\monitor_test\6.6.2014\IndicatorProject\IndicatorProject\obj\Debug\HistObj.resources
+C:\Users\LevashevDK\monitor_test\6.6.2014\IndicatorProject\IndicatorProject\obj\Debug\ResultViewer.Forms.Scatter.resources
+C:\Users\LevashevDK\monitor_test\6.6.2014\IndicatorProject\IndicatorProject\obj\Debug\OptReport.resources
+C:\Users\LevashevDK\monitor_test\6.6.2014\IndicatorProject\IndicatorProject\obj\Debug\IndicatorProject.csproj.GenerateResource.Cache
+C:\Users\LevashevDK\monitor_test\6.6.2014\IndicatorProject\IndicatorProject\obj\Debug\IndicatorProject.exe.licenses
+C:\Users\LevashevDK\monitor_test\6.6.2014\IndicatorProject\IndicatorProject\bin\Debug\BloomAPI.dll
+C:\Users\LevashevDK\monitor_test\6.6.2014\IndicatorProject\IndicatorProject\bin\Debug\Bloomberglp.Blpapi.dll
+C:\Users\LevashevDK\monitor_test\17.6.2014\IndicatorProject\IndicatorProject\bin\Debug\IndicatorProject.exe.config
+C:\Users\LevashevDK\monitor_test\17.6.2014\IndicatorProject\IndicatorProject\obj\Debug\IndicatorProject.exe
+C:\Users\LevashevDK\monitor_test\17.6.2014\IndicatorProject\IndicatorProject\obj\Debug\IndicatorProject.pdb
+C:\Users\LevashevDK\monitor_test\17.6.2014\IndicatorProject\IndicatorProject\bin\Debug\IndicatorProject.exe
+C:\Users\LevashevDK\monitor_test\17.6.2014\IndicatorProject\IndicatorProject\bin\Debug\IndicatorProject.pdb
+C:\Users\LevashevDK\monitor_test\17.6.2014\IndicatorProject\IndicatorProject\bin\Debug\BloomAPI.dll
+C:\Users\LevashevDK\monitor_test\17.6.2014\IndicatorProject\IndicatorProject\bin\Debug\Bloomberglp.Blpapi.dll
+C:\Users\LevashevDK\monitor_test\17.6.2014\IndicatorProject\IndicatorProject\bin\Debug\DundasWinChart.dll
+C:\Users\LevashevDK\monitor_test\17.6.2014\IndicatorProject\IndicatorProject\bin\Debug\IndicatorBank.dll
+C:\Users\LevashevDK\monitor_test\17.6.2014\IndicatorProject\IndicatorProject\bin\Debug\MoreLinq.dll
+C:\Users\LevashevDK\monitor_test\17.6.2014\IndicatorProject\IndicatorProject\bin\Debug\ResultViewer.exe
+C:\Users\LevashevDK\monitor_test\17.6.2014\IndicatorProject\IndicatorProject\bin\Debug\StrategyExecutor.dll
+C:\Users\LevashevDK\monitor_test\17.6.2014\IndicatorProject\IndicatorProject\bin\Debug\TradeFramework.dll
+C:\Users\LevashevDK\monitor_test\17.6.2014\IndicatorProject\IndicatorProject\bin\Debug\IndicatorBank.pdb
+C:\Users\LevashevDK\monitor_test\17.6.2014\IndicatorProject\IndicatorProject\bin\Debug\ResultViewer.pdb
+C:\Users\LevashevDK\monitor_test\17.6.2014\IndicatorProject\IndicatorProject\bin\Debug\StrategyExecutor.pdb
+C:\Users\LevashevDK\monitor_test\17.6.2014\IndicatorProject\IndicatorProject\bin\Debug\TradeFramework.pdb
+C:\Users\LevashevDK\monitor_test\17.6.2014\IndicatorProject\IndicatorProject\obj\Debug\IndicatorProject.csprojResolveAssemblyReference.cache
+C:\Users\LevashevDK\monitor_test\17.6.2014\IndicatorProject\IndicatorProject\obj\Debug\IndicatorProject.Properties.Resources.resources
+C:\Users\LevashevDK\monitor_test\17.6.2014\IndicatorProject\IndicatorProject\obj\Debug\ResultViewer.Forms.EquityResultChart.resources
+C:\Users\LevashevDK\monitor_test\17.6.2014\IndicatorProject\IndicatorProject\obj\Debug\HistObj.resources
+C:\Users\LevashevDK\monitor_test\17.6.2014\IndicatorProject\IndicatorProject\obj\Debug\ResultViewer.Forms.Scatter.resources
+C:\Users\LevashevDK\monitor_test\17.6.2014\IndicatorProject\IndicatorProject\obj\Debug\OptReport.resources
+C:\Users\LevashevDK\monitor_test\17.6.2014\IndicatorProject\IndicatorProject\obj\Debug\IndicatorProject.csproj.GenerateResource.Cache
+C:\Users\LevashevDK\monitor_test\17.6.2014\IndicatorProject\IndicatorProject\obj\Debug\IndicatorProject.exe.licenses
+C:\Users\LevashevDK\Optimal Portfolio\18.6.2014\main\IndicatorProject\bin\Debug\IndicatorProject.exe.config
+C:\Users\LevashevDK\Optimal Portfolio\18.6.2014\main\IndicatorProject\obj\Debug\IndicatorProject.exe
+C:\Users\LevashevDK\Optimal Portfolio\18.6.2014\main\IndicatorProject\obj\Debug\IndicatorProject.pdb
+C:\Users\LevashevDK\Optimal Portfolio\18.6.2014\main\IndicatorProject\obj\Debug\IndicatorProject.csprojResolveAssemblyReference.cache
+C:\Users\LevashevDK\Optimal Portfolio\18.6.2014\main\IndicatorProject\obj\Debug\IndicatorProject.Properties.Resources.resources
+C:\Users\LevashevDK\Optimal Portfolio\18.6.2014\main\IndicatorProject\obj\Debug\ResultViewer.Forms.EquityResultChart.resources
+C:\Users\LevashevDK\Optimal Portfolio\18.6.2014\main\IndicatorProject\obj\Debug\HistObj.resources
+C:\Users\LevashevDK\Optimal Portfolio\18.6.2014\main\IndicatorProject\obj\Debug\ResultViewer.Forms.Scatter.resources
+C:\Users\LevashevDK\Optimal Portfolio\18.6.2014\main\IndicatorProject\obj\Debug\IndicatorProject.csproj.GenerateResource.Cache
+C:\Users\LevashevDK\Optimal Portfolio\18.6.2014\main\IndicatorProject\obj\Debug\IndicatorProject.exe.licenses
+C:\Users\LevashevDK\Optimal Portfolio\18.6.2014\main\IndicatorProject\bin\Debug\IndicatorProject.exe
+C:\Users\LevashevDK\Optimal Portfolio\18.6.2014\main\IndicatorProject\bin\Debug\IndicatorProject.pdb
+C:\Users\LevashevDK\Optimal Portfolio\18.6.2014\main\IndicatorProject\bin\Debug\BloomAPI.dll
+C:\Users\LevashevDK\Optimal Portfolio\18.6.2014\main\IndicatorProject\bin\Debug\Bloomberglp.Blpapi.dll
+C:\Users\LevashevDK\Optimal Portfolio\18.6.2014\main\IndicatorProject\bin\Debug\DundasWinChart.dll
+C:\Users\LevashevDK\Optimal Portfolio\18.6.2014\main\IndicatorProject\bin\Debug\IndicatorBank.dll
+C:\Users\LevashevDK\Optimal Portfolio\18.6.2014\main\IndicatorProject\bin\Debug\MoreLinq.dll
+C:\Users\LevashevDK\Optimal Portfolio\18.6.2014\main\IndicatorProject\bin\Debug\ResultViewer.exe
+C:\Users\LevashevDK\Optimal Portfolio\18.6.2014\main\IndicatorProject\bin\Debug\StrategyExecutor.dll
+C:\Users\LevashevDK\Optimal Portfolio\18.6.2014\main\IndicatorProject\bin\Debug\TradeFramework.dll
+C:\Users\LevashevDK\Optimal Portfolio\18.6.2014\main\IndicatorProject\bin\Debug\IndicatorBank.pdb
+C:\Users\LevashevDK\Optimal Portfolio\18.6.2014\main\IndicatorProject\bin\Debug\ResultViewer.pdb
+C:\Users\LevashevDK\Optimal Portfolio\18.6.2014\main\IndicatorProject\bin\Debug\StrategyExecutor.pdb
+C:\Users\LevashevDK\Optimal Portfolio\18.6.2014\main\IndicatorProject\bin\Debug\TradeFramework.pdb
+D:\local\local\Optimal Portfolio\18.6.2014\main\IndicatorProject\bin\Debug\IndicatorProject.exe.config
+D:\local\local\Optimal Portfolio\18.6.2014\main\IndicatorProject\obj\Debug\IndicatorProject.exe
+D:\local\local\Optimal Portfolio\18.6.2014\main\IndicatorProject\obj\Debug\IndicatorProject.pdb
+D:\local\local\Optimal Portfolio\18.6.2014\main\IndicatorProject\bin\Debug\IndicatorProject.exe
+D:\local\local\Optimal Portfolio\18.6.2014\main\IndicatorProject\bin\Debug\IndicatorProject.pdb
+D:\local\local\Optimal Portfolio\18.6.2014\main\IndicatorProject\bin\Debug\DundasWinChart.dll
+D:\local\local\Optimal Portfolio\18.6.2014\main\IndicatorProject\bin\Debug\IndicatorBank.dll
+D:\local\local\Optimal Portfolio\18.6.2014\main\IndicatorProject\bin\Debug\MoreLinq.dll
+D:\local\local\Optimal Portfolio\18.6.2014\main\IndicatorProject\bin\Debug\ResultViewer.exe
+D:\local\local\Optimal Portfolio\18.6.2014\main\IndicatorProject\bin\Debug\StrategyExecutor.dll
+D:\local\local\Optimal Portfolio\18.6.2014\main\IndicatorProject\bin\Debug\TradeFramework.dll
+D:\local\local\Optimal Portfolio\18.6.2014\main\IndicatorProject\bin\Debug\IndicatorBank.pdb
+D:\local\local\Optimal Portfolio\18.6.2014\main\IndicatorProject\bin\Debug\ResultViewer.pdb
+D:\local\local\Optimal Portfolio\18.6.2014\main\IndicatorProject\bin\Debug\StrategyExecutor.pdb
+D:\local\local\Optimal Portfolio\18.6.2014\main\IndicatorProject\bin\Debug\TradeFramework.pdb
+D:\local\local\Optimal Portfolio\18.6.2014\main\IndicatorProject\obj\Debug\IndicatorProject.csprojResolveAssemblyReference.cache
+D:\local\local\Optimal Portfolio\18.6.2014\main\IndicatorProject\obj\Debug\IndicatorProject.Properties.Resources.resources
+D:\local\local\Optimal Portfolio\18.6.2014\main\IndicatorProject\obj\Debug\ResultViewer.Forms.EquityResultChart.resources
+D:\local\local\Optimal Portfolio\18.6.2014\main\IndicatorProject\obj\Debug\HistObj.resources
+D:\local\local\Optimal Portfolio\18.6.2014\main\IndicatorProject\obj\Debug\ResultViewer.Forms.Scatter.resources
+D:\local\local\Optimal Portfolio\18.6.2014\main\IndicatorProject\obj\Debug\IndicatorProject.csproj.GenerateResource.Cache
+D:\local\local\Optimal Portfolio\18.6.2014\main\IndicatorProject\obj\Debug\IndicatorProject.exe.licenses
